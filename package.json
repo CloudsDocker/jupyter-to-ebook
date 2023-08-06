@@ -1,0 +1,17 @@
+{
+  "name": "jupyter-to-ebook",
+  "version": "1.0.0",
+  "description": "one package to convert jupyter notebook or lab to ebook format such as epub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jupyter",
+    "epub",
+    "mobi",
+    "ebook"
+  ],
+  "author": "ToddZhang",
+  "license": "ISC"
+}
